@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Main"},{"p":"edu.iuh.fit.ex2","l":"Rectangle"},{"p":"edu.iuh.fit.ex2","l":"TestRectangle"}];updateSearchResults();
